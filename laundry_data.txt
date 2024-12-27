@@ -1,0 +1,21 @@
+=== DATA LAUNDRY ===
+Tanggal: Thu Dec 26 22:04:09 WIB 2024
+
+Nama: Tio
+Berat: 10.0 kg
+Harga/kg: Rp5000.0
+Total: Rp50000.0
+
+======================
+
+=== DATA LAUNDRY ===
+Tanggal: Thu Dec 26 22:21:20 WIB 2024
+
+Nama: Bambang
+Jenis: Besar (Bedcover, Selimut)
+Berat: 10.0 kg
+Harga/kg: Rp10000.0
+Total: Rp100000.0
+
+======================
+
